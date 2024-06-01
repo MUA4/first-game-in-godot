@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://fqp6ysdwrqii"
-path="res://.godot/imported/fruit.png-3735163b668af10c2b35b52cba81b68a.ctex"
+uid="uid://by4rtmio4krbd"
+path="res://.godot/imported/diamond-coin.png-3e1ea40a34c9870cefaa979c6fe36a8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/fruit.png"
-dest_files=["res://.godot/imported/fruit.png-3735163b668af10c2b35b52cba81b68a.ctex"]
+source_file="res://assets/sprites/diamond-coin.png"
+dest_files=["res://.godot/imported/diamond-coin.png-3e1ea40a34c9870cefaa979c6fe36a8d.ctex"]
 
 [params]
 
